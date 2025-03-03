@@ -1,6 +1,15 @@
-@font-face{
-  font-family: water;
-  src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
+.jacquard-24-regular {
+  font-family: "Jacquard 24", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px
+}
+
+.jacquard-23-regular {
+  font-family: "Jacquard 24", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px
 }
 
 body {
@@ -8,7 +17,6 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
 }
 
 h1{
